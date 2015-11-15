@@ -1,1 +1,1 @@
-https://shielded-sea-6219.herokuapp.com/
+http://shielded-sea-6219.herokuapp.com/
